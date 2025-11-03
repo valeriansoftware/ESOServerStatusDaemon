@@ -2,6 +2,11 @@
 
 Приложение для Windows, которое показывает текущие статусы серверов The Elder Scrolls Online в системном трее.
 
+<img width="390" height="202" alt="image" src="https://github.com/user-attachments/assets/15a7ddf7-aa90-468b-9bbc-b58ded568ab6" />
+<img width="299" height="122" alt="image" src="https://github.com/user-attachments/assets/c2ceabde-7d10-4969-a7bd-70fed14269ac" />
+
+
+
 ## Что умеет
 - Отслеживает 7 мегасерверов (PC EU/NA/PTS, Xbox EU/NA, PlayStation EU/NA).
 - ЛКМ — открывает окно со сводкой статусов.
