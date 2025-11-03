@@ -2,8 +2,9 @@
 
 Приложение для Windows, которое показывает текущие статусы серверов The Elder Scrolls Online в системном трее.
 
-<img width="390" height="202" alt="image" src="https://github.com/user-attachments/assets/57562853-181a-47a3-a25f-dd17bec8446d" />
-<img width="390" height="202" alt="image" src="https://github.com/user-attachments/assets/15a7ddf7-aa90-468b-9bbc-b58ded568ab6" />
+<img width="389" height="202" alt="image" src="https://github.com/user-attachments/assets/57562853-181a-47a3-a25f-dd17bec8446d" />
+<img width="389" height="202" alt="image" src="https://github.com/user-attachments/assets/3bc73c7f-43d4-4af6-b07d-f617291c818b" />
+
 
 
 
